@@ -1,7 +1,7 @@
 # Getting-Started-Raspberry-PI
 **Goals**</br>
 complete getting started with raspberry pi </br>
-**Boundaries / Scope**</br>  
+**Boundaries / Scope** </br>  
 complete getting started with raspberry pi and complete challenged with raspberry pi </br>
 **Success criteria** </br> 
 my own capabilities to use a raspberry pi and weekly updates on my progression on the projet </br>
