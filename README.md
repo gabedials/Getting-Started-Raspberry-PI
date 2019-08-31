@@ -1,5 +1,4 @@
 # Getting-Started-Raspberry-PI
-
 **Goals**</br>
 complete getting started with raspberry pi </br>
 **Boundaries / Scope**</br>  
